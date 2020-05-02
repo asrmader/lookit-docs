@@ -98,7 +98,7 @@ List of tutorial participants
 - Caitlin Fausey (University of Oregon)
 - Kate Bee (Univresity of Oregon)
 - Jasmine Engen (University of Oregon)
-- Sotera Mader (University of British Columbia) 
+- Asia Sotera Mader (University of British Columbia) 
 .. _Github issues overview:
 
 Checking for and creating issues on Github
